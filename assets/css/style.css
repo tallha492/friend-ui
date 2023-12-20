@@ -1,0 +1,68 @@
+.logo-height {
+    height: 75px;
+    object-fit: cover;
+    /* margin-top: 22px; */
+}
+
+.text-danger {
+    color: #d0519f !important;
+}
+
+.bg-danger {
+    background-color: #d0519f !important;
+}
+
+.btn-outline-danger {
+    border-color: #d0519f;
+}
+
+.btn-outline-danger:hover {
+    background: #d0519f;
+}
+
+.banner-bg {
+    background-image: linear-gradient(#edebeb, #99989b);
+    height: 30vh;
+    border-radius: 0 0 20px 20px;
+}
+
+.icon-border {
+    padding: 0px 3px 3px 3px
+}
+
+.icon-height {
+    height: 15px;
+}
+
+.profile-img {
+    width: 120px;
+    height: 121px;
+    object-fit: cover;
+    margin-top: -42px;
+    margin-left: 30px;
+}
+
+.card-image-align {
+    border-radius: 10px;
+    height: 102px;
+    /* width: 100%; */
+    object-fit: cover;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs{
+    border-color: transparent !important;
+    border: none !important;
+    /* box-shadow: none; */
+    
+}
+.nav-link.active{
+    border-bottom: 1px solid;
+    border-top: 0px solid;
+    border-right: 0px solid;
+    border-left: 0px solid;
+    border-color: #d0519f !important;
+}
+
+.nav-link:hover{
+    border-color: transparent !important;
+}
